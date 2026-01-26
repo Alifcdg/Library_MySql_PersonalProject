@@ -1,4 +1,4 @@
---This is the DDL parts
+--This is DDL
 
 --Create Database
 --START

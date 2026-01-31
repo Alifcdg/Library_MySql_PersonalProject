@@ -1,2 +1,4 @@
-# Library_MySql_PersonalProject
-I make a database name library_db, about two entities that have relationship many-to-many and a entity relationship. Two main entity name members & books, and loans for the entity relationship. Includes DDL, DML, and DCL.
+I created a database named library_db.
+This project demonstrates a many-to-many relationship between two main entities: members and books.
+The relationship is handled through a junction table called loans.
+The project includes DDL, DML, and DCL scripts.
